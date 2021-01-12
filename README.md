@@ -1,6 +1,7 @@
-### Zentachain Documentation
+## Zentachain Documentation
 
-#### *This documentation is about Zentachain, Zentameshnet, Zentalk, Zenta Blockchain and hosting nodes.*
+### This documentation is about Zentachain, Zentameshnet, Zentalk, Zenta Blockchain and hosting Zentanodes or Staking on the Zentanetwork.
 
-#### [This project is under active development, there may be breaking changes.]
-#### [Copyright all rights reserved Zentachain.io]
+### [Zentachain Docs](http://docs.zentachain.io)
+
+#### Copyright all rights reserved Zentachain.io
