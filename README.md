@@ -4,4 +4,4 @@ This documentation is about Zentachain, Zentameshnet, Zentalk, Zentanetwork and 
 
 #### [Zentachain Docs](http://docs.zentachain.io)
 
-#### Copyright all rights reserved Zentachain.io
+#### Copyright all rights reserved @Zentachain.io 2021
