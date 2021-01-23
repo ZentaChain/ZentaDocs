@@ -2,6 +2,6 @@
 
 This documentation is about Zentachain, Zentameshnet, Zentalk, Zentanetwork and hosting Zentanodes or Staking on the Zentanetwork
 
-#### [Zentachain Docs](http://docs.zentachain.io)
+#### Visit: [Zentachain Docs](http://docs.zentachain.io)
 
 #### Copyright all rights reserved @Zentachain.io 2021
