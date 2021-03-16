@@ -1,4 +1,4 @@
-## Zentachain Documentation
+# Documentation
 
 This documentation is about Zentachain, Zentameshnet, Zentalk, Zentanetwork and hosting Zentanodes or Staking on the Zentanetwork.
 
