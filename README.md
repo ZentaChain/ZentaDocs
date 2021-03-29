@@ -1,6 +1,6 @@
 # Documentation
 
-This documentation is about Zentameshnet, Zentalk, Zentanetwork, hosting Zentanodes, Staking on the Zentanetwork and also more details about Zentachain ecosystem.
+This documentation is about Zentameshnet, Zentalk, Zentanetwork, Zentanodes, Staking on the Zentanetwork, and also more details about the Zentachain ecosystem.
 
 [Documentation](http://docs.zentachain.io)
 
